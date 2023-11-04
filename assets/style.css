@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    color: brown;
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 500px;
+    margin: auto;
+}
+
+h2 {
+    font-size: 18px;
+    color: #a52a2a;
+}
